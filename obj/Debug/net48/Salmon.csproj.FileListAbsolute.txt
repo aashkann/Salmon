@@ -7,3 +7,14 @@ C:\Users\Arze\source\repos\Salmon\obj\Debug\net48\Salmon.AssemblyInfo.cs
 C:\Users\Arze\source\repos\Salmon\obj\Debug\net48\Salmon.csproj.CoreCompileInputs.cache
 C:\Users\Arze\source\repos\Salmon\obj\Debug\net48\Salmon.gha
 C:\Users\Arze\source\repos\Salmon\obj\Debug\net48\Salmon.pdb
+C:\Users\Arze\Documents\GitHub\Salmon\bin\Debug\net48\Salmon.gha
+C:\Users\Arze\Documents\GitHub\Salmon\bin\Debug\net48\Salmon.pdb
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.csproj.AssemblyReference.cache
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.AssemblyInfoInputs.cache
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.AssemblyInfo.cs
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.csproj.CoreCompileInputs.cache
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.gha
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.pdb
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.Properties.Resources.resources
+C:\Users\Arze\Documents\GitHub\Salmon\obj\Debug\net48\Salmon.csproj.GenerateResource.cache

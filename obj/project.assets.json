@@ -96,11 +96,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arze\\source\\repos\\Salmon\\Salmon.csproj",
+      "projectUniqueName": "C:\\Users\\Arze\\Documents\\GitHub\\Salmon\\Salmon.csproj",
       "projectName": "Salmon",
-      "projectPath": "C:\\Users\\Arze\\source\\repos\\Salmon\\Salmon.csproj",
+      "projectPath": "C:\\Users\\Arze\\Documents\\GitHub\\Salmon\\Salmon.csproj",
       "packagesPath": "C:\\Users\\Arze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arze\\source\\repos\\Salmon\\obj\\",
+      "outputPath": "C:\\Users\\Arze\\Documents\\GitHub\\Salmon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

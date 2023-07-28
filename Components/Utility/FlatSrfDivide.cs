@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Drawing;
 using Grasshopper.Kernel;
 using Grasshopper.Kernel.Types;
 using Rhino.Geometry;
+using Salmon.Properties;
 
 namespace Salmon.Components.Utility
 {
@@ -18,6 +19,7 @@ namespace Salmon.Components.Utility
             TemplateConfig.SalmonTab, TemplateConfig.Tabs.Utility)
         {
         }
+        protected override Bitmap Icon => Resources.ic_divideFlatSurface;
 
         /// <summary>
         /// Registers all the input parameters for this component.
@@ -209,15 +211,7 @@ namespace Salmon.Components.Utility
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon
-        {
-            get
-            {
-                //You can add image files to your project resources and access them like this:
-                // return Resources.IconForThisComponent;
-                return null;
-            }
-        }
+
 
         /// <summary>
         /// Gets the unique ID for this component. Do not change this ID after release.

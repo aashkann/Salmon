@@ -1,10 +1,12 @@
 using Grasshopper;
 using Grasshopper.Kernel;
+using System.Drawing;
 using Grasshopper.Kernel.Data;
 using Rhino.Geometry;
 using Rhino.Geometry.Intersect;
 using System;
 using System.Collections.Generic;
+using Salmon.Properties;
 
 namespace Salmon.Components.Utility
 {
@@ -23,7 +25,7 @@ namespace Salmon.Components.Utility
             TemplateConfig.SalmonTab, TemplateConfig.Tabs.Utility)
         {
         }
-
+        protected override Bitmap Icon => Resources.ic_offsetFlatSurface;
         /// <summary>
         /// Registers all the input parameters for this component.
         /// </summary>
@@ -156,19 +158,6 @@ namespace Salmon.Components.Utility
             DA.SetDataTree(4, interPtTemp);
         }
 
-        /// <summary>
-        /// Provides an Icon for every component that will be visible in the User Interface.
-        /// Icons need to be 24x24 pixels.
-        /// You can add image files to your project resources and access them like this:
-        /// return Resources.IconForThisComponent;
-        /// </summary>
-        protected override System.Drawing.Bitmap Icon => null;
-
-        /// <summary>
-        /// Each component must have a unique Guid to identify it. 
-        /// It is vital this Guid doesn't change otherwise old ghx files 
-        /// that use the old ID will partially fail during loading.
-        /// </summary>
         public override Guid ComponentGuid => new Guid("566bf81a-3bbb-4420-a596-07d04bb4306b");
     }
 }
