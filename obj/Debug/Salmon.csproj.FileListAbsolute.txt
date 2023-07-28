@@ -1,8 +1,0 @@
-C:\Users\ashkanism\source\repos\Salmon\bin\Salmon.dll
-C:\Users\ashkanism\source\repos\Salmon\bin\Salmon.pdb
-C:\Users\ashkanism\source\repos\Salmon\obj\Debug\Salmon.csproj.CoreCompileInputs.cache
-C:\Users\ashkanism\source\repos\Salmon\obj\Debug\Salmon.dll
-C:\Users\ashkanism\source\repos\Salmon\obj\Debug\Salmon.pdb
-C:\Users\ashkanism\source\repos\Salmon\obj\Debug\Salmon.Properties.Resources.resources
-C:\Users\ashkanism\source\repos\Salmon\obj\Debug\Salmon.csproj.GenerateResource.cache
-C:\Users\ashkanism\source\repos\Salmon\obj\Debug\Salmon.csprojAssemblyReference.cache
