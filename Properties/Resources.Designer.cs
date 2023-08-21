@@ -73,6 +73,16 @@ namespace Salmon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ic_exportIllustrator {
+            get {
+                object obj = ResourceManager.GetObject("ic_exportIllustrator", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ic_offsetFlatSurface {
             get {
                 object obj = ResourceManager.GetObject("ic_offsetFlatSurface", resourceCulture);

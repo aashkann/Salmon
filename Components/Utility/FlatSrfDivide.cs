@@ -101,7 +101,9 @@ namespace Salmon.Components.Utility
                 // Creating Gaps
                 double Udown = j * (ULength + UGap);
                 double Uup = j * (ULength + UGap) + UGap;
-                Interval tempU = new Interval(Udown, Uup);
+                Interval tempU = srfULength;
+                tempU.T0 = Udown;
+                tempU.T1 = Uup;
                 Udomain.Add(tempU);
                 // Creating Panels
                 Udown = j * (ULength + UGap) + UGap;

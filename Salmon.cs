@@ -18,6 +18,7 @@ namespace Salmon
         {
             public static string Import { get => "Import"; }
             public static string Utility { get => "Utility"; }
+            public static string Export { get => "Export"; }
 
         }
     }
