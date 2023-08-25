@@ -1,5 +1,6 @@
 # Salmon-Grasshopper
-
+Salmon stands as an exemplary Open-source Grasshopper plugin, poised to foster seamless collaboration. With a resolute objective, it serves as an avant-garde arena for ideation, seamless integrations, and boundless inspiration. Its essence lies in democratizing ingenious tools, ensuring universal accessibility. As a software artisan, Salmon beckons the community to partake in a symphony of innovation, where intricate concepts harmonize with effortless usability, ultimately orchestrating a tapestry of unparalleled utility and creativity.[AI-generated]
+![Salmon Banner](Looks//SalmonBanners.jpg)
 
 ## Documentation
 [![Docs](https://img.shields.io/badge/Docs-Salmon%20Docs-125DA9?logo=readme&logoColor=white&style=flat-square)](#)
@@ -33,5 +34,26 @@ Please make sure to update tests as appropriate.
 I am following the [Google Style Guides](https://google.github.io/styleguide/).
 
 ## License
+Plugin banner has created by tool called[Expressive Text-to-Image Generation with Rich Text by Songwei Ge, Taesung Park, Jun-Yan Zhu, Jia-Bin Huang with this prompt:
+<kbd>
+**Description:**
+Create a watercolor painting on coarse white paper that serves as an identity for a digital tool. The painting should focus solely on a single wild salmon fish, with no background elements. The style should be reminiscent of a watercolor painting, with visible brushstrokes and a natural, organic feel.
 
+**Guidelines:**
+
+- **Medium:** Watercolor on coarse white paper.
+- **Composition:** The painting should prominently feature a wild salmon fish as the central subject. The fish should be positioned elegantly, showcasing its form.
+- **Color Palette:** The primary color of the salmon should be a mixture of shades resembling the natural color of a wild salmon fish. Incorporate subtle orange tones where appropriate, especially on the belly and areas that catch highlights.
+- **Background:** Leave the background entirely white, allowing the fish to stand out.
+- **Texture:** Emulate the texture of coarse white paper by leaving parts of the paper uncolored. This will contribute to the paper-like aesthetic.
+- **Brushstrokes:** The brushstrokes should be visible, capturing the spontaneous and fluid nature of watercolor painting.
+- **Details:** Pay attention to the details of the fish's scales, fins, and facial features, while maintaining a loose and artistic representation.
+- **Dimensions:** The painting's dimensions should be suitable for its intended use as an identity for a digital tool. High-resolution digital scanning or photography is recommended for accurate reproduction.
+
+</kbd>
+""
+
+
+](https://huggingface.co/spaces/songweig/rich-text-to-image)
+The font used in the graphics of the project is [Sono](https://github.com/sursly/sono) by [Ty Finck](https://github.com/sursly)
 ## About
