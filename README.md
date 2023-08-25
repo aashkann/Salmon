@@ -34,10 +34,12 @@ Please make sure to update tests as appropriate.
 I am following the [Google Style Guides](https://google.github.io/styleguide/).
 
 ## License
-Plugin banner has created by tool called[Expressive Text-to-Image Generation with Rich Text by Songwei Ge, Taesung Park, Jun-Yan Zhu, Jia-Bin Huang with this prompt:
+Plugin banner has been created by a tool called [Expressive Text-to-Image](https://huggingface.co/spaces/songweig/rich-text-to-image) Generation with Rich Text by Songwei Ge, Taesung Park, Jun-Yan Zhu, and Jia-Bin Huang with this prompt:
+
 <kbd>
 **Description:**
 Create a watercolor painting on coarse white paper that serves as an identity for a digital tool. The painting should focus solely on a single wild salmon fish, with no background elements. The style should be reminiscent of a watercolor painting, with visible brushstrokes and a natural, organic feel.
+
 **Guidelines:**
 - **Medium:** Watercolor on coarse white paper.
 - **Composition:** The painting should prominently feature a wild salmon fish as the central subject. The fish should be positioned elegantly, showcasing its form.
@@ -48,10 +50,7 @@ Create a watercolor painting on coarse white paper that serves as an identity fo
 - **Details:** Pay attention to the details of the fish's scales, fins, and facial features, while maintaining a loose and artistic representation.
 - **Dimensions:** The painting's dimensions should be suitable for its intended use as an identity for a digital tool. High-resolution digital scanning or photography is recommended for accurate reproduction.
 </kbd>
-""
 
-
-](https://huggingface.co/spaces/songweig/rich-text-to-image)
 
 The font used in the graphics of the project is [Sono](https://github.com/sursly/sono) by [Ty Finck](https://github.com/sursly).
 
