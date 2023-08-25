@@ -52,5 +52,7 @@ Create a watercolor painting on coarse white paper that serves as an identity fo
 
 
 ](https://huggingface.co/spaces/songweig/rich-text-to-image)
-The font used in the graphics of the project is [Sono](https://github.com/sursly/sono) by [Ty Finck](https://github.com/sursly)
+
+The font used in the graphics of the project is [Sono](https://github.com/sursly/sono) by [Ty Finck](https://github.com/sursly).
+
 ## About
