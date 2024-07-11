@@ -1,6 +1,7 @@
 # Visual Studio temporary files
 .vscode/
 .vs/
+.vs/*
 *_i.c
 *_p.c
 *.ncb
@@ -222,3 +223,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+obj/

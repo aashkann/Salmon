@@ -32,7 +32,7 @@ namespace Salmon.Components.Utility
         protected override void RegisterInputParams(GH_InputParamManager pManager)
         {
             pManager.AddSurfaceParameter("Surfaces", "Srfs", "Surfaces", GH_ParamAccess.list);
-            pManager.AddNumberParameter("Frame Offset", "FOff", "Frame Offset", GH_ParamAccess.item, 200);
+            pManager.AddNumberParameter("Frame Offset", "FOff", "Frame Offset", GH_ParamAccess.item, 0.1);
         }
 
         /// <summary>
@@ -55,10 +55,10 @@ namespace Salmon.Components.Utility
         protected override void SolveInstance(IGH_DataAccess DA)
         {
             List<Surface> srf = new List<Surface>();
-            double frameOff = double.NaN;
-            DA.GetDataList("Surfaces", srf);
-            DA.GetData("Frame Offset", ref frameOff);
+            double frameOff = 0.1;
 
+            if (!DA.GetDataList("Surfaces", srf)) return;
+            if (!DA.GetData("Frame Offset", ref frameOff)) return;
             List<Point3d> centerSrf = new List<Point3d>();
             List<Vector3d> normals = new List<Vector3d>();
             List<Point3d> output = new List<Point3d>();
